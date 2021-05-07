@@ -6,5 +6,5 @@ The majority of the website is informational, but does contain a blog feature an
 ## Link to Site
 https://claritycounselingut.com
 
-<img src="cc1"/>
-<img src="cc2"/>
+<img src="cc1.png"/>
+<img src="cc2.jpeg"/>
